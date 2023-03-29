@@ -149,7 +149,7 @@ export const ScrollData = [
   { id: 148, type: "emoji", value: "1f40e" },
   { id: 149, type: "digit", value: "57" },
   { id: 150, type: "digit", value: "58" },
-  { id: 150, type: "emoji", value: "1f4a3" },
+  { id: 208, type: "emoji", value: "1f4a3" },
   { id: 151, type: "emoji", value: "1f443" },
   { id: 152, type: "digit", value: "59" },
   { id: 154, type: "digit", value: "60" },

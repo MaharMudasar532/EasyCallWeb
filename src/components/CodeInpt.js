@@ -1,6 +1,5 @@
 import React from "react";
 import { Colors } from "../Utils/Color";
-import "../../src/index.css";
 
 export default function CodeInpt(props) {
   const { code, setShowInpt, setCode, showInpt } = props;

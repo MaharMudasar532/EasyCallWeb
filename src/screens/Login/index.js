@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Header from "../../components/header";
-import "../../../src/globalCss.css";
 import CodeInpt from "../../components/CodeInpt";
 import { Colors } from "../../Utils/Color";
 import { ScrollData } from "../../components/ScrollData";
@@ -72,6 +71,7 @@ const Login = () => {
             {ScrollData.map((item) => {
               return (
                 <div
+                  key={item.id}
                   className="border border-dark"
                   style={{
                     height: 74,
@@ -93,7 +93,7 @@ const Login = () => {
 
       <Button btnTitle="Log in " />
       <Button btnTitle="Sign up" />
-      <Footer/>
+      <Footer />
     </div>
   );
 };
