@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/EasyCallWeb/static/css/main.ddf45055.css",
-    "main.js": "/EasyCallWeb/static/js/main.cc10d557.js",
+    "main.js": "/EasyCallWeb/static/js/main.b9bcd5a6.js",
     "static/js/787.5afef5d5.chunk.js": "/EasyCallWeb/static/js/787.5afef5d5.chunk.js",
     "index.html": "/EasyCallWeb/index.html",
     "main.ddf45055.css.map": "/EasyCallWeb/static/css/main.ddf45055.css.map",
-    "main.cc10d557.js.map": "/EasyCallWeb/static/js/main.cc10d557.js.map",
+    "main.b9bcd5a6.js.map": "/EasyCallWeb/static/js/main.b9bcd5a6.js.map",
     "787.5afef5d5.chunk.js.map": "/EasyCallWeb/static/js/787.5afef5d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddf45055.css",
-    "static/js/main.cc10d557.js"
+    "static/js/main.b9bcd5a6.js"
   ]
 }
