@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+ 
+.input:focus {
+  outline: none !important;
+  border:0px;
+  /* box-shadow: 0 0 10px #719ECE; */
+}
+.itemrow{
+  overflow: "scroll";
+  overflow-x: 'auto'
+}
+.scrollBar::-webkit-scrollbar {
+  display: none;
+}
+.scrollBar{
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
